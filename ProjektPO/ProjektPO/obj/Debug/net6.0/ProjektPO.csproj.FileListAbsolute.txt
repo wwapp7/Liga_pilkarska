@@ -1,0 +1,12 @@
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\bin\Debug\net6.0\ProjektPO.deps.json
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\bin\Debug\net6.0\ProjektPO.dll
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\bin\Debug\net6.0\ProjektPO.pdb
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\obj\Debug\net6.0\ProjektPO.csproj.AssemblyReference.cache
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\obj\Debug\net6.0\ProjektPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\obj\Debug\net6.0\ProjektPO.AssemblyInfoInputs.cache
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\obj\Debug\net6.0\ProjektPO.AssemblyInfo.cs
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\obj\Debug\net6.0\ProjektPO.csproj.CoreCompileInputs.cache
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\obj\Debug\net6.0\ProjektPO.dll
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\obj\Debug\net6.0\refint\ProjektPO.dll
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\obj\Debug\net6.0\ProjektPO.pdb
+C:\Users\wwojcik\source\repos\ProjektPO\ProjektPO\obj\Debug\net6.0\ref\ProjektPO.dll
